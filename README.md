@@ -1,5 +1,5 @@
 # react-native-demoApp
-Demo app build on React Native. Containing basic UI component boilerplate and fetch POST call.
+Demo app build on React Native. Containing basic UI component boilerplate and fetch API call.
 
 ## How To RUN: 
 
