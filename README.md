@@ -10,5 +10,5 @@ npm install
 
 Step 2 :
 ```
-  expo start
+expo start
 ```
